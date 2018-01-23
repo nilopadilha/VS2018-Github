@@ -10,7 +10,7 @@ namespace testeApp01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso do Github com visual studio 2017.");
+            Console.WriteLine("Exemplo de uso do Github com Visual Studio 2017.");
             Console.ReadKey();
         }
     }
